@@ -1,0 +1,32 @@
+1.	Edit Object (spread operator)
+Sebuah daftar tentudapatmengalamiperubahan, namunbelumtentusemuadatanyaberubah. Disediakanarray of objectsebagaiberikut:
+[
+	{
+		name: ‘Tatas’,
+		company: ‘Arkademy’,
+		job: ‘Trainer’,
+		status: ‘single’,
+		city: ‘Jogja’
+	},
+	{
+		name: ‘Pratama’,
+		company: ‘Emago’,
+		job: ‘Trainer’,
+		status: ‘single’,
+		city: ‘Jakarta’
+	}
+]
+Jika Tatas telahmenikah dan pindahdariJogjake Jakarta, sertaPratamadirekrut oleh Arkademymenjadi Trainer yang bertempat di Jogja, makaubahlah object diatasmenggunakan spread operator.
+
+2.	Mesin Printer
+Disediakan 2 buah arrayyaitu array huruf dan array perintah. Jika array perintahberisi true, makahuruf yang memilikiindeks yang sama di array hurufakandicetak.Buatlahsebuah program untukmenampilkan output berupahuruf yang di print berdasarkan array perintahdengan parameter berupa array perintah.
+
+3.	Mean, Median, Modus
+Dalamilmustatistika, kitamenggunakan mean untukmenemukannilai rata—rata sebuah array ataukumpulannilai, median untukmenentukannilaitengah di array nilai, dan modus untukmenemukannilaimanakah pada array yang muncul paling banyak. Buatlahsebuah program yang dapatmenghasilkan output berupanilai mean, median dan modus dengan parameter berupa array nilai.
+
+4.	AplikasiPerpustakaan
+Sebuahperpustakaanmenyimpan data buku-bukunyadalam object yang telahdisediakan. Buatlahsebuah program yang dapatmenampilkan output berdasarkanpilihan:
+a.	Menampilkan status sebuahbukujikadiberikan parameter judulbukutersebut.
+b.	Menampilkan list buku yang tersediauntukdipinjam.
+
+
