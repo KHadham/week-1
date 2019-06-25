@@ -1,7 +1,22 @@
-# TEST 1
-bismillah
+# ARRAY MANIPULATION
 
-### cllone
+    ## TASK1
+    play with array like
+    Show all item 
+    put things to array
+    delete object
+    edit array
 
-    origin  https://github.com/kampretosjr/week-1.git (fetch)
-    origin  https://github.com/kampretosjr/week-1.git (push)
+    ## TASK2
+    spread operator
+    mean median modus
+    get array by status in object
+    
+    ## TASK3
+    palindrome
+    play with loops
+    matrics and transpose
+    
+    
+    
+    
