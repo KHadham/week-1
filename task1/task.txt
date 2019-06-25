@@ -1,0 +1,6 @@
+Manipulate Array of Object
+
+Show all item on Array (array.map)
+Push item to Array 
+Delete item from Array
+Change value on Item property
